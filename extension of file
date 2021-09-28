@@ -1,0 +1,3 @@
+fn=input("file name ;")
+fe=fn.split(".")
+print (repr(fe[-1]))
